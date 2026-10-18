@@ -28,19 +28,17 @@
 
 ## `> whoami`
 
-```json
-{
-  "name": "Miraj Hossain",
-  "role": "AI Engineer / Software Engineer Intern (aspiring)",
-  "education": "B.Sc. CSE @ American International University-Bangladesh (2022 - 2026)",
-  "focus": ["Artificial Intelligence", "Information Systems"],
-  "languages": ["English", "Bengali"],
-  "interests": ["AI", "Edge Computing", "Backend / Full-Stack", "Software Engineering"],
-  "currently": "Looking for an AI / SWE internship in a product environment",
-  "status": "#FREE_FOR_WORK",
-  "portfolio": "https://mirajsportfolio.vercel.app/"
-}
-```
+## 👤 𝓦𝓱𝓸 𝓐𝓶 𝓘?
+
+- 🧑‍💻 **𝗡𝗮𝗺𝗲:** 𝓜𝓲𝓻𝓪𝓳 𝓗𝓸𝓼𝓼𝓪𝓲𝓷
+- 🎯 **𝗥𝗼𝗹𝗲:** AI Engineer / Software Engineer Intern *(aspiring)*
+- 🎓 **𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻:** B.Sc. CSE @ American International University-Bangladesh (2022 – 2026)
+- 🔬 **𝗙𝗼𝗰𝘂𝘀:** Artificial Intelligence • Information Systems
+- 🌐 **𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:** English • Bengali
+- 💡 **𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀:** AI • Edge Computing • Frontened and Backend / Full-Stack • Software Engineering
+- 🚀 **𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆:** Looking for an AI / SWE internship in a product environment
+- 🟢 **𝗦𝘁𝗮𝘁𝘂𝘀:** 𝓞𝓹𝓮𝓷 𝓽𝓸 𝓦𝓸𝓻𝓴
+- 🔗 **𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼:** [mirajsportfolio.vercel.app](https://mirajsportfolio.vercel.app/)
 
 > *"Bridging theoretical AI with practical, real-time automation."*
 
@@ -139,15 +137,13 @@ Sustainability web platform with secure authentication and a dynamic UI for trac
 ---
 
 ## `> cat ./current_focus.txt`
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&pause=1000&color=E10600&width=520&lines=CURRENT+FOCUS;LIGHTS+OUT+AND+AWAY+WE+GO" alt="Current Focus" />
 
-```diff
-+ Training and optimizing YOLO models for Raspberry Pi / Jetson (NCNN, ONNX)
-+ Building scalable backends with Node.js, PHP and relational databases
-+ Sharpening software engineering skills: clean code, documentation, teamwork
-! Open to AI Engineer / Software Engineer internships
-```
-
----
+- 🟢 **𝙁𝙍𝙊𝙉𝙏𝙀𝙉𝘿** → Crafting fast, responsive, pixel-perfect interfaces with React, TypeScript and Tailwind CSS
+- 🟢 **𝙏𝙍𝘼𝙄𝙉𝙄𝙉𝙂 & 𝙊𝙋𝙏𝙄𝙈𝙄𝙕𝙄𝙉𝙂** → YOLO models for Raspberry Pi / Jetson *(NCNN, ONNX)*
+- 🟢 **𝘽𝙐𝙄𝙇𝘿𝙄𝙉𝙂** → Scalable backends with Node.js, PHP and relational databases
+- 🟢 **𝙎𝙃𝘼𝙍𝙋𝙀𝙉𝙄𝙉𝙂** → Software engineering skills: clean code, documentation, teamwork
+- 🔴 **𝘽𝙊𝙓 𝘽𝙊𝙓!** → 𝙊𝙥𝙚𝙣 𝙩𝙤 AI Engineer / Software Engineer / Frontend Developer internships
 
 ## `> ping miraj --connect`
 
