@@ -1,13 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Free+For+Work)](https://git.io/typing-svg)
-<br clear="all"/>
-
-<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0a0a14,50:ff00c8,100:00fff0&text=MIRAJ%20HOSSAIN&fontColor=00fff0&fontSize=58&fontAlignY=42&desc=//%20AI%20ENGINEER%20%7C%20FULL-STACK%20DEV%20%7C%20CS%20@%20AIUB&descAlignY=65&descSize=17&animation=twinkling" width="100%" alt="header"/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFF0&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%3E+initializing+miraj.exe+...;%3E+Training+YOLO+models+for+the+edge;%3E+Building+full-stack+products;%3E+Seeking+AI+%2F+Software+Engineer+Internship;%3E+Let's+build+something+futuristic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=%F0%9F%9F%A2+Free+For+Work" alt="Free for work" />
+</a>
+
+<!-- ============ HEADER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0a0a14,50:ff00c8,100:00fff0&text=MIRAJ%20HOSSAIN&fontColor=00fff0&fontSize=58&fontAlignY=42&desc=//%20AI%20ENGINEER%20%7C%20FULL-STACK%20DEV%20%7C%20CS%20@%20AIUB&descAlignY=65&descSize=17&animation=twinkling" width="100%" alt="header"/>
+
+<a href="https://mirajsportfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFF0&center=true&vCenter=true&width=720&height=50&lines=%3E+initializing+miraj.exe+...;%3E+Shipping+live+AI+products;%3E+Training+YOLO+models+for+the+edge;%3E+Building+full-stack+apps;%3E+Seeking+AI+%2F+Software+Engineer+Internship;%3E+Let's+build+something+futuristic" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,9 +19,9 @@
 
 <br/>
 
-<a href="https://mirajsportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/%3E_VIEW_MY_PORTFOLIO-00fff0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14" alt="Portfolio" />
-</a>
+<a href="https://mirajsportfolio.vercel.app/"><img src="https://img.shields.io/badge/%3E_PORTFOLIO-00fff0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14" alt="Portfolio" /></a>
+<a href="https://rag-chat-swart.vercel.app/login"><img src="https://img.shields.io/badge/%3E_RAG_CHAT_LIVE-ff00c8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a14" alt="RAG Chat" /></a>
+<a href="https://lsh26-t001-p02.vercel.app/"><img src="https://img.shields.io/badge/%3E_PHARMACY_SHELF_CHECK-39ff14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14" alt="Pharmacy Shelf Check" /></a>
 
 </div>
 
@@ -28,19 +29,34 @@
 
 ## `> whoami`
 
-## 👤 𝓦𝓱𝓸 𝓐𝓶 𝓘?
+<table>
+<tr>
+<td width="62%" valign="top">
 
-- 🧑‍💻 **𝗡𝗮𝗺𝗲:** 𝓜𝓲𝓻𝓪𝓳 𝓗𝓸𝓼𝓼𝓪𝓲𝓷
-- 🎯 **𝗥𝗼𝗹𝗲:** AI Engineer / Software Engineer Intern *(aspiring)*
-- 🎓 **𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻:** B.Sc. CSE @ American International University-Bangladesh (2022 – 2026)
-- 🔬 **𝗙𝗼𝗰𝘂𝘀:** Artificial Intelligence • Information Systems
-- 🌐 **𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:** English • Bengali
-- 💡 **𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀:** AI • Edge Computing • Frontened and Backend / Full-Stack • Software Engineering
-- 🚀 **𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆:** Looking for an AI / SWE internship in a product environment
-- 🟢 **𝗦𝘁𝗮𝘁𝘂𝘀:** 𝓞𝓹𝓮𝓷 𝓽𝓸 𝓦𝓸𝓻𝓴
-- 🔗 **𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼:** [mirajsportfolio.vercel.app](https://mirajsportfolio.vercel.app/)
+- 🧑‍💻 **Name:** Miraj Hossain
+- 🎯 **Role:** AI Engineer / Software Engineer Intern *(aspiring)*
+- 🎓 **Education:** B.Sc. CSE @ American International University-Bangladesh (2022 – 2026)
+- 🔬 **Focus:** Artificial Intelligence • Information Systems
+- 🌐 **Languages:** English • Bengali
+- 💡 **Interests:** AI • Edge Computing • Frontend, Backend & Full-Stack • Software Engineering
+- 🚀 **Currently:** Looking for an AI / SWE internship in a product environment
+- 🔗 **Portfolio:** [mirajsportfolio.vercel.app](https://mirajsportfolio.vercel.app/)
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<br/>
 
 > *"Bridging theoretical AI with practical, real-time automation."*
+
+<br/>
+
+🟢 **OPEN TO WORK**<br/>
+AI Engineer · Software Engineer · Frontend Developer internships
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,24 +66,111 @@
 
 **// LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,php,r,mysql,html,css&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,ts,php,r,mysql,html,css&theme=dark" alt="languages"/>
 
 **// FRAMEWORKS & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git,github,raspberrypi,linux&theme=dark" alt="frameworks"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,supabase,vercel,git,github,raspberrypi,linux&theme=dark" alt="frameworks"/>
 
 <br/>
 
-![YOLO](https://img.shields.io/badge/YOLO_v8_|_v9_|_v11-00FFF0?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0a0a14)
+![YOLO](https://img.shields.io/badge/YOLO_v8_|_v9_|_v11-00FFF0?style=for-the-badge&labelColor=0a0a14)
 ![OpenCV](https://img.shields.io/badge/Computer_Vision-ff00c8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0a0a14)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-39ff14?style=for-the-badge&logo=nvidia&logoColor=black&labelColor=0a0a14)
+![RAG](https://img.shields.io/badge/RAG_%7C_pgvector-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a14)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL_%7C_RDBMS-f5d300?style=for-the-badge&logo=oracle&logoColor=black&labelColor=0a0a14)
 
 </div>
 
 ---
 
-## `> ./load_projects.sh`
+## `> ./live_projects.sh`
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1200&color=FF00C8&center=true&vCenter=true&width=520&lines=%F0%9F%9F%A2+DEPLOYED+%26+LIVE+%E2%80%94+CLICK+TO+TRY" alt="Live projects" />
+</div>
+
+<br/>
+
+### 🧠 Context — RAG Document Chat &nbsp;`LIVE`
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+Chat with your **private PDFs** and get answers that cite the exact source page. A production-oriented Retrieval-Augmented Generation app: upload a document, ask a question, and inspect the evidence behind every claim.
+
+- 📎 Inline numbered citations linked to **page-aware source cards**
+- 🔎 **pgvector HNSW** retrieval with query rewriting and similarity gating
+- 🛑 Exact refusal when the document doesn't support an answer
+- 🔐 Passwordless **Supabase** auth, row-level security, per-user rate limits (Upstash)
+- 📊 **93.8%** top-1 retrieval hit rate, **100%** answer correctness and refusal accuracy on a 20-question evaluation suite
+
+![Next.js](https://img.shields.io/badge/Next.js_16-0a0a14?style=flat-square&logo=nextdotjs&logoColor=00fff0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a14?style=flat-square&logo=typescript&logoColor=ff00c8)
+![Supabase](https://img.shields.io/badge/Supabase-0a0a14?style=flat-square&logo=supabase&logoColor=39ff14)
+![Gemini](https://img.shields.io/badge/Gemini-0a0a14?style=flat-square&logo=googlegemini&logoColor=00fff0)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a14?style=flat-square&logo=vercel&logoColor=ff00c8)
+
+</td>
+<td width="32%" valign="middle" align="center">
+
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6_LIVE_DEMO-ff00c8?style=for-the-badge&labelColor=0a0a14)](https://rag-chat-swart.vercel.app/login)
+<br/><br/>
+[![Source Code](https://img.shields.io/badge/%3C%2F%3E_SOURCE-00fff0?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a14)](https://github.com/MirajHossain22/RAG-chat)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💊 Pharmacy Expiry Shelf Check &nbsp;`LIVE`
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+A web app for checking medicine **expiry dates on pharmacy shelves**, built to help staff spot items that are expired or close to expiring and keep stock safe and organized.
+
+- ⏳ Shelf-level expiry tracking for quick, routine checks
+- 🧾 Clear, scannable interface designed for day-to-day pharmacy workflow
+- 🚀 Deployed on **Vercel**
+
+![Frontend](https://img.shields.io/badge/Frontend-0a0a14?style=flat-square&logo=react&logoColor=00fff0)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a14?style=flat-square&logo=vercel&logoColor=39ff14)
+
+</td>
+<td width="32%" valign="middle" align="center">
+
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6_LIVE_DEMO-39ff14?style=for-the-badge&labelColor=0a0a14&logoColor=black)](https://lsh26-t001-p02.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌐 Personal Portfolio &nbsp;`LIVE`
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+My full portfolio with projects, skills and background, designed and deployed on Vercel.
+
+</td>
+<td width="32%" valign="middle" align="center">
+
+[![Portfolio](https://img.shields.io/badge/%E2%96%B6_VISIT_PORTFOLIO-00fff0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14)](https://mirajsportfolio.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> ./load_projects.sh --research`
 
 <table>
 <tr>
@@ -79,7 +182,7 @@
 Edge-AI agricultural robot running on **Raspberry Pi** for real-time leaf detection and crop disease diagnosis, with farmer-friendly advisory.
 
 ![](https://img.shields.io/badge/Python-0a0a14?style=flat-square&logo=python&logoColor=00fff0)
-![](https://img.shields.io/badge/YOLO-0a0a14?style=flat-square&logoColor=ff00c8&logo=yolo)
+![](https://img.shields.io/badge/YOLO-0a0a14?style=flat-square&logoColor=ff00c8)
 ![](https://img.shields.io/badge/RaspberryPi-0a0a14?style=flat-square&logo=raspberrypi&logoColor=39ff14)
 
 </td>
@@ -137,21 +240,27 @@ Sustainability web platform with secure authentication and a dynamic UI for trac
 ---
 
 ## `> cat ./current_focus.txt`
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&pause=1000&color=E10600&width=520&lines=CURRENT+FOCUS;LIGHTS+OUT+AND+AWAY+WE+GO" alt="Current Focus" />
 
-- 🟢 **𝙁𝙍𝙊𝙉𝙏𝙀𝙉𝘿** → Crafting fast, responsive, pixel-perfect interfaces with React, TypeScript and Tailwind CSS
-- 🟢 **𝙏𝙍𝘼𝙄𝙉𝙄𝙉𝙂 & 𝙊𝙋𝙏𝙄𝙈𝙄𝙕𝙄𝙉𝙂** → YOLO models for Raspberry Pi / Jetson *(NCNN, ONNX)*
-- 🟢 **𝘽𝙐𝙄𝙇𝘿𝙄𝙉𝙂** → Scalable backends with Node.js, PHP and relational databases
-- 🟢 **𝙎𝙃𝘼𝙍𝙋𝙀𝙉𝙄𝙉𝙂** → Software engineering skills: clean code, documentation, teamwork
-- 🔴 **𝘽𝙊𝙓 𝘽𝙊𝙓!** → 𝙊𝙥𝙚𝙣 𝙩𝙤 AI Engineer / Software Engineer / Frontend Developer internships
+- 🟢 **FRONTEND** → Crafting fast, responsive, pixel-perfect interfaces with React, TypeScript and Tailwind CSS
+- 🟢 **AI PRODUCTS** → Shipping RAG applications with citations, evaluation suites and production hardening
+- 🟢 **TRAINING & OPTIMIZING** → YOLO models for Raspberry Pi / Jetson *(NCNN, ONNX)*
+- 🟢 **BUILDING** → Scalable backends with Node.js, PHP and relational databases
+- 🟢 **SHARPENING** → Software engineering skills: clean code, documentation, teamwork
+- 🔴 **BOX BOX!** → Open to AI Engineer / Software Engineer / Frontend Developer internships
+
+---
 
 ## `> ping miraj --connect`
 
 <div align="center">
 
-**// PORTFOLIO**
+**// LIVE LINKS**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00fff0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14)](https://mirajsportfolio.vercel.app/)
+[![RAG Chat](https://img.shields.io/badge/RAG_CHAT-ff00c8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a14)](https://rag-chat-swart.vercel.app/login)
+[![Pharmacy](https://img.shields.io/badge/PHARMACY_SHELF_CHECK-39ff14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14)](https://lsh26-t001-p02.vercel.app/)
 
 **// SOCIALS**
 
