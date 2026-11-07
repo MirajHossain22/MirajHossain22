@@ -13,7 +13,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MIRAJHOSSAIN-afk&label=NETRUNNER+VISITS&color=ff00c8&style=for-the-badge&labelColor=0a0a14)
+![Profile Views](https://komarev.com/ghpvc/?username=MirajHossain22&label=NETRUNNER+VISITS&color=ff00c8&style=for-the-badge&labelColor=0a0a14)
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39ff14?style=for-the-badge&labelColor=0a0a14)
 ![Location](https://img.shields.io/badge/NODE-DHAKA,_BD-00fff0?style=for-the-badge&labelColor=0a0a14)
 
@@ -21,6 +21,7 @@
 
 <a href="https://mirajsportfolio.vercel.app/"><img src="https://img.shields.io/badge/%3E_PORTFOLIO-00fff0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14" alt="Portfolio" /></a>
 <a href="https://rag-chat-swart.vercel.app/login"><img src="https://img.shields.io/badge/%3E_RAG_CHAT_LIVE-ff00c8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a14" alt="RAG Chat" /></a>
+<a href="https://fcommerce-order-extractor.onrender.com/"><img src="https://img.shields.io/badge/%3E_F--COMMERCE_ORDER_DESK-f5d300?style=for-the-badge&logo=render&logoColor=black&labelColor=0a0a14" alt="F-Commerce Order Desk" /></a>
 <a href="https://lsh26-t001-p02.vercel.app/"><img src="https://img.shields.io/badge/%3E_PHARMACY_SHELF_CHECK-39ff14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14" alt="Pharmacy Shelf Check" /></a>
 
 </div>
@@ -118,6 +119,37 @@ Chat with your **private PDFs** and get answers that cite the exact source page.
 [![Live Demo](https://img.shields.io/badge/%E2%96%B6_LIVE_DEMO-ff00c8?style=for-the-badge&labelColor=0a0a14)](https://rag-chat-swart.vercel.app/login)
 <br/><br/>
 [![Source Code](https://img.shields.io/badge/%3C%2F%3E_SOURCE-00fff0?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a14)](https://github.com/MirajHossain22/RAG-chat)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🛒 F-Commerce Order Desk &nbsp;`LIVE`
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+A Python backend for social-commerce sellers that turns **Bangla, Banglish and English chat messages into validated orders** using the Gemini API.
+
+- 🤖 **Gemini API** extraction of order details from messy, mixed-language chat text
+- 🗄️ Relational database with **transactional order confirmation**, inventory deduction and stale-update checks
+- 🔐 Seller authentication, per-seller data isolation and **CSRF protection**
+- ✅ **241 pytest tests**, GitHub Actions CI and Docker deployment
+
+![Python](https://img.shields.io/badge/Python-0a0a14?style=flat-square&logo=python&logoColor=00fff0)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a14?style=flat-square&logo=fastapi&logoColor=ff00c8)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a14?style=flat-square&logo=sqlite&logoColor=39ff14)
+![Gemini](https://img.shields.io/badge/Gemini-0a0a14?style=flat-square&logo=googlegemini&logoColor=00fff0)
+![Docker](https://img.shields.io/badge/Docker-0a0a14?style=flat-square&logo=docker&logoColor=ff00c8)
+![Render](https://img.shields.io/badge/Render-0a0a14?style=flat-square&logo=render&logoColor=39ff14)
+
+</td>
+<td width="32%" valign="middle" align="center">
+
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6_LIVE_DEMO-f5d300?style=for-the-badge&labelColor=0a0a14&logoColor=black)](https://fcommerce-order-extractor.onrender.com/)
 
 </td>
 </tr>
@@ -228,12 +260,12 @@ Sustainability web platform with secure authentication and a dynamic UI for trac
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MIRAJHOSSAIN-afk&show_icons=true&hide_border=true&bg_color=0a0a14&title_color=00fff0&icon_color=ff00c8&text_color=c9d1d9&ring_color=00fff0&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIRAJHOSSAIN-afk&layout=compact&hide_border=true&bg_color=0a0a14&title_color=00fff0&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MirajHossain22&show_icons=true&hide_border=true&bg_color=0a0a14&title_color=00fff0&icon_color=ff00c8&text_color=c9d1d9&ring_color=00fff0&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirajHossain22&layout=compact&hide_border=true&bg_color=0a0a14&title_color=00fff0&text_color=c9d1d9&langs_count=8" alt="top langs"/>
 
-<img src="https://streak-stats.demolab.com?user=MIRAJHOSSAIN-afk&hide_border=true&background=0a0a14&stroke=ff00c8&ring=00fff0&fire=ff00c8&currStreakLabel=00fff0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=MirajHossain22&hide_border=true&background=0a0a14&stroke=ff00c8&ring=00fff0&fire=ff00c8&currStreakLabel=00fff0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MIRAJHOSSAIN-afk&bg_color=0a0a14&color=00fff0&line=ff00c8&point=39ff14&area=true&area_color=ff00c8&hide_border=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MirajHossain22&bg_color=0a0a14&color=00fff0&line=ff00c8&point=39ff14&area=true&area_color=ff00c8&hide_border=true" width="100%" alt="activity graph"/>
 
 </div>
 
@@ -260,13 +292,14 @@ Sustainability web platform with secure authentication and a dynamic UI for trac
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00fff0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14)](https://mirajsportfolio.vercel.app/)
 [![RAG Chat](https://img.shields.io/badge/RAG_CHAT-ff00c8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a14)](https://rag-chat-swart.vercel.app/login)
+[![F-Commerce](https://img.shields.io/badge/F--COMMERCE_ORDER_DESK-f5d300?style=for-the-badge&logo=render&logoColor=black&labelColor=0a0a14)](https://fcommerce-order-extractor.onrender.com/)
 [![Pharmacy](https://img.shields.io/badge/PHARMACY_SHELF_CHECK-39ff14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14)](https://lsh26-t001-p02.vercel.app/)
 
 **// SOCIALS**
 
 [![Email](https://img.shields.io/badge/EMAIL-00fff0?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a14)](mailto:mirajh417@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff00c8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a14)](https://www.linkedin.com/in/miraj-hossain-075590257)
-[![GitHub](https://img.shields.io/badge/GITHUB-f5d300?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a14)](https://github.com/MIRAJHOSSAIN-afk)
+[![GitHub](https://img.shields.io/badge/GITHUB-f5d300?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a14)](https://github.com/MirajHossain22)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-1877f2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a14)](https://www.facebook.com/share/1DojQrFgY9/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-ff00c8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a14)](https://www.instagram.com/mirajh417?srtk=NDdyNGMyOXl2MXhu)
 
