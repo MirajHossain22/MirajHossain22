@@ -260,12 +260,31 @@ Sustainability web platform with secure authentication and a dynamic UI for trac
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MirajHossain22&show_icons=true&hide_border=true&bg_color=0a0a14&title_color=00fff0&icon_color=ff00c8&text_color=c9d1d9&ring_color=00fff0&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirajHossain22&layout=compact&hide_border=true&bg_color=0a0a14&title_color=00fff0&text_color=c9d1d9&langs_count=8" alt="top langs"/>
-
 <img src="https://streak-stats.demolab.com?user=MirajHossain22&hide_border=true&background=0a0a14&stroke=ff00c8&ring=00fff0&fire=ff00c8&currStreakLabel=00fff0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MirajHossain22&bg_color=0a0a14&color=00fff0&line=ff00c8&point=39ff14&area=true&area_color=ff00c8&hide_border=true" width="100%" alt="activity graph"/>
+<br/><br/>
+
+![Followers](https://img.shields.io/github/followers/MirajHossain22?style=for-the-badge&label=FOLLOWERS&color=00fff0&labelColor=0a0a14&logo=github&logoColor=white)
+![Live Deploys](https://img.shields.io/badge/LIVE_DEPLOYS-4-ff00c8?style=for-the-badge&labelColor=0a0a14)
+![Tests](https://img.shields.io/badge/PYTEST-241_PASSING-39ff14?style=for-the-badge&labelColor=0a0a14)
+![RAG](https://img.shields.io/badge/RAG_TOP--1-93.8%25-f5d300?style=for-the-badge&labelColor=0a0a14)
+
+<br/>
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│ MIRAJ.EXE  //  SYSTEM DIAGNOSTICS                          │
+├────────────────────────────────────────────────────────────┤
+│ live_deployments .......... 4  (RAG, F-Commerce, Pharmacy, Portfolio) │
+│ rag_top1_retrieval ........ 93.8%  [███████████████████░]  │
+│ rag_answer_correctness .... 100%   [████████████████████]  │
+│ fcommerce_pytest_tests .... 241                            │
+│ backends_shipped .......... Python, C#, TypeScript         │
+│ edge_ai_target ............ Raspberry Pi / Jetson (NCNN, ONNX) │
+│ publication ............... IEB-EE APM2025 (Dec 2025)      │
+│ status .................... OPEN_TO_WORK                   │
+└────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
